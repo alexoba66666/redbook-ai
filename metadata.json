@@ -1,0 +1,5 @@
+{
+  "name": "RedNote Ops - 小红书高效运营工具",
+  "description": "An all-in-one efficiency tool for Xiaohongshu content creators featuring AI parsing, rewriting, sensitive word detection, and automated viral workflow generation using Gemini 2.5 models.",
+  "requestFramePermissions": []
+}
